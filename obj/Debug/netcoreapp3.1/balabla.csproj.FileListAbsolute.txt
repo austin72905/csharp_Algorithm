@@ -1,0 +1,13 @@
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\bin\Debug\netcoreapp3.1\balabla.exe
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\bin\Debug\netcoreapp3.1\balabla.deps.json
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\bin\Debug\netcoreapp3.1\balabla.runtimeconfig.json
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\bin\Debug\netcoreapp3.1\balabla.runtimeconfig.dev.json
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\bin\Debug\netcoreapp3.1\balabla.dll
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\bin\Debug\netcoreapp3.1\balabla.pdb
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\obj\Debug\netcoreapp3.1\balabla.csprojAssemblyReference.cache
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\obj\Debug\netcoreapp3.1\balabla.AssemblyInfoInputs.cache
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\obj\Debug\netcoreapp3.1\balabla.AssemblyInfo.cs
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\obj\Debug\netcoreapp3.1\balabla.csproj.CoreCompileInputs.cache
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\obj\Debug\netcoreapp3.1\balabla.dll
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\obj\Debug\netcoreapp3.1\balabla.pdb
+C:\Users\JIN78\Desktop\littleBlackWindows\balabla\obj\Debug\netcoreapp3.1\balabla.genruntimeconfig.cache
